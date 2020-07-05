@@ -1,2 +1,2 @@
-# weblanjut
-web lanjut projeck akhir
+-menyelesaikan tugas tepat waktu
+lulus tepat waktu
